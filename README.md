@@ -1,10 +1,7 @@
-# soul-cheats-menu
+# soulcheats.cc src
 
-Free to use source from monsieur kiss4meme.
-
-
+phantom skid
 
 
-Any issues while compiling?
 
-Use v142 BuildTools and update your Include- and Libarydictonary to your actual DirectX-Folder to compile the dll.
+
